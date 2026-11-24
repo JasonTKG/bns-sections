@@ -1,8 +1,8 @@
 # Bharatiya Nyaya Sanhita, 2023: sections, IPC correspondence and classification
 
-The Bharatiya Nyaya Sanhita, 2023 in English as enacted, one row per section; the Indian Penal Code provisions the government's table lists against each section; and the classification of offences from the First Schedule of the Bharatiya Nagarik Suraksha Sanhita, 2023. The Act came into force on 1 July 2024, except section 106(2).
+**Site: [bns.govsimple.org](https://bns.govsimple.org/)** · Download: [latest release](https://github.com/JasonTKG/bns-sections/releases/latest)
 
-Site: https://bns.govsimple.org/
+The Bharatiya Nyaya Sanhita, 2023 in English as enacted, one row per section; the Indian Penal Code provisions the government's table lists against each section; and the classification of offences from the First Schedule of the Bharatiya Nagarik Suraksha Sanhita, 2023. The Act came into force on 1 July 2024, except section 106(2).
 
 ## Files
 

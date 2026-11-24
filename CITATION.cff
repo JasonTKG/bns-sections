@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the sources named in README.md."
+type: dataset
+title: "Bharatiya Nyaya Sanhita, 2023: sections, IPC correspondence and classification"
+abstract: "The Bharatiya Nyaya Sanhita, 2023 in English as enacted, one row per section; the Indian Penal Code provisions the government's table lists against each section; and the classification of offences from the First Schedule of the Bharatiya Nagarik Suraksha Sanhita, 2023. The Act came into force on 1 July 2024, except section 106(2)."
+authors:
+  - name: "JasonTKG"
+    website: "https://github.com/JasonTKG"
+url: "https://bns.govsimple.org/"
+repository: "https://github.com/JasonTKG/bns-sections"
+license: CC0-1.0
+version: "2026.11.24"
+date-released: "2026-11-24"
+keywords:
+  - "dataset"
+  - "open-data"
+  - "india"
+  - "law"
+  - "bharatiya-nyaya-sanhita"
+  - "bns"
+  - "ipc"
+  - "csv"
