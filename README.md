@@ -2,6 +2,8 @@
 
 **Site: [bns.govsimple.org](https://bns.govsimple.org/)** · Download: [latest release](https://github.com/JasonTKG/bns-sections/releases/latest)
 
+Archived on Zenodo: [doi:10.5281/zenodo.24496709](https://doi.org/10.5281/zenodo.24496709) · also on [Kaggle](https://www.kaggle.com/datasets/jasontkg/bharatiya-nyaya-sanhita-2023-sections-and-ipc) and [Hugging Face](https://huggingface.co/datasets/lakerguy16/bns-sections)
+
 The Bharatiya Nyaya Sanhita, 2023 in English as enacted, one row per section; the Indian Penal Code provisions the government's table lists against each section; and the classification of offences from the First Schedule of the Bharatiya Nagarik Suraksha Sanhita, 2023. The Act came into force on 1 July 2024, except section 106(2).
 
 ## Files
