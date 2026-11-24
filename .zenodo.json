@@ -1,0 +1,34 @@
+{
+ "title": "Bharatiya Nyaya Sanhita, 2023: sections, IPC correspondence and classification",
+ "description": "The 358 sections of the Bharatiya Nyaya Sanhita, 2023 as enacted (Gazette of India), the government's IPC correspondence table and the BNSS First Schedule classification.<br><br>Site built on this data: https://bns.govsimple.org/<br>Source repository, with columns, sources and how it was checked: https://github.com/JasonTKG/bns-sections<br>",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "JasonTKG"
+  }
+ ],
+ "license": "cc-zero",
+ "keywords": [
+  "dataset",
+  "open-data",
+  "india",
+  "law",
+  "bharatiya-nyaya-sanhita",
+  "bns",
+  "ipc",
+  "csv"
+ ],
+ "access_right": "open",
+ "related_identifiers": [
+  {
+   "identifier": "https://bns.govsimple.org/",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://github.com/JasonTKG/bns-sections",
+   "relation": "isDerivedFrom",
+   "scheme": "url"
+  }
+ ]
+}
